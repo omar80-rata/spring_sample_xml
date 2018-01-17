@@ -2,7 +2,6 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.pluralsight.service.CustomerService;
-import com.pluralsight.service.CustomerServiceImp;
 
 public class Application {
 
